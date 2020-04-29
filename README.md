@@ -1,8 +1,8 @@
 
-####Install the archetype locally
+#### Install the archetype locally
 `mvn install`
 
-####Create a project using this archetype
+#### Create a project using this archetype
 
 mvn archetype:generate                                  \
   -DarchetypeGroupId=com.ktech                \
